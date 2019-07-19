@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+    <context id="MYSQLTables" targetRuntime="MyBatis3">
+        <plugin type="org.mybatis.generator.plugins.FluentBuilderMethodsPlugin" />
+        <plugin type="org.mybatis.generator.plugins.ToStringPlugin" />
+        <plugin type="org.mybatis.generator.plugins.SerializablePlugin" />
+        <plugin type="org.mybatis.generator.plugins.RowBoundsPlugin" />
+
+        <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver"
+                        connectionURL="jdbc:mysql://127.0.0.1:3306/coffee"
+                        userId="root"
+                        password="123456">
+        </jdbcConnection>
+
+        <javaModelGenerator targetPackage="com.neo.model"
+                            targetProject="./src/main/java">
+            <property name="enableSubPackages" value="true" />
+            <property name="trimStrings" value="true" />
+        </javaModelGenerator>
+
+        <sqlMapGenerator targetPackage="com.neo.mapper"
+                         targetProject="./src/main/resources/mapper">
+            <property name="enableSubPackages" value="true" />
+        </sqlMapGenerator>
+
+        <javaClientGenerator type="MIXEDMAPPER"
+                             targetPackage="com.neo.mapper"
+                             targetProject="./src/main/java">
+            <property name="enableSubPackages" value="true" />
+        </javaClientGenerator>
+
+        <table tableName="t_coffee" domainObjectName="Coffee" >
+            <generatedKey column="id" sqlStatement="CALL IDENTITY()" identity="true" />
+        </table>
+    </context>
+</generatorConfiguration>

@@ -1,0 +1,5 @@
+latte 30
+moka 60
+expresso 45
+makalon 60
+milk 56

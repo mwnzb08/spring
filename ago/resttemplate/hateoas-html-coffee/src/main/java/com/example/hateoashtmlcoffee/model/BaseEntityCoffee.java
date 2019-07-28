@@ -19,8 +19,8 @@ public class BaseEntityCoffee implements Serializable {
     private Long id;
     @Column(updatable = false)
     @CreationTimestamp
-    private Date createTime;
+    private Date ct;
     @Column
     @UpdateTimestamp
-    private Date updateTime;
+    private Date ut;
 }

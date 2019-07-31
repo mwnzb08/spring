@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b3e3874-d43d-4f6e-bde0-708b068c16b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/personal-rongduan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config-client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/简单的自定义/consul-rongduan/src/main/java/com/example/consulrongduan/support/Rongduan.java" beforeDir="false" afterPath="$PROJECT_DIR$/简单的自定义/consul-rongduan/src/main/java/com/example/consulrongduan/support/Rongduan.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/简单的自定义/consul-rongduan/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="37" column="21" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="37" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/re4/server-server-consul/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-end-line="14" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/re4/server-server-consul/src/main/java/com/example/serverserverconsul/ServerServerConsulApplication.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/re4/consul-rongduan/src/main/java/com/example/consulrongduan/ConsulRongduanApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/re4/server-server-consul/src/main/resources/bootstrap.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/re4/consul-rongduan/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/简单的自定义/server-server-consul/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/简单的自定义/consul-rongduan/src/main/java/com/example/consulrongduan/ConsulRongduanApplication.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/简单的自定义/consul-rongduan/src/main/java/com/example/consulrongduan/inter/Hello.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/简单的自定义/consul-rongduan/src/main/java/com/example/consulrongduan/support/Rongduan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/简单的自定义/consul-rongduan/src/main/java/com/example/consulrongduan/support/Rongduan.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="686" />
+    <option name="y" value="5" />
+    <option name="width" value="1175" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="re4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="re4" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="re4" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="re4" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="re4" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="re4" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="re4" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="re4" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="consulrongduan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="re4" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="consulrongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="re4" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="简单的自定义" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="简单的自定义" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="简单的自定义" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="简单的自定义" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="简单的自定义" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="简单的自定义" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="简单的自定义" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="简单的自定义" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="consulrongduan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="简单的自定义" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="consulrongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="inter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="简单的自定义" type="462c0819:PsiDirectoryNode" />
+              <item name="consul-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="consulrongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="简单的自定义" type="462c0819:PsiDirectoryNode" />
+              <item name="server-server-consul" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-rongduan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-rongduan" type="462c0819:PsiDirectoryNode" />
+              <item name="简单的自定义" type="462c0819:PsiDirectoryNode" />
+              <item name="single-for-mine" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../resttemplate/resttemplate-server-1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b3e3874-d43d-4f6e-bde0-708b068c16b2" name="Default Changelist" comment="" />
+      <created>1564474408585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564474408585</updated>
+      <workItem from="1564474411711" duration="2683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2683000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Jms Messenger" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Hystrix/server-server-consul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hystrix/consul-rongduan/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hystrix/consul-rongduan/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hystrix/consul-rongduan/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hystrix/consul-rongduan/src/main/java/com/example/consulrongduan/inter/Fallbacks.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hystrix/consul-rongduan/src/main/java/com/example/consulrongduan/inter/Hello.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hystrix/consul-rongduan/src/main/java/com/example/consulrongduan/inter/Hello2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hystrix/consul-rongduan/src/main/java/com/example/consulrongduan/support/Rongduan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/简单的自定义/single-for-mine/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="76" selection-start-line="32" selection-start-column="76" selection-end-line="32" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/简单的自定义/consul-rongduan/src/main/java/com/example/consulrongduan/ConsulRongduanApplication.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/简单的自定义/consul-rongduan/src/main/java/com/example/consulrongduan/inter/Hello.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/简单的自定义/consul-rongduan/src/main/java/com/example/consulrongduan/support/Rongduan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/简单的自定义/server-server-consul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/简单的自定义/consul-rongduan/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="37" column="21" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re4/server-server-consul/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re4/consul-rongduan/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re4/server-server-consul/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-end-line="14" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re4/server-server-consul/src/main/java/com/example/serverserverconsul/ServerServerConsulApplication.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re4/consul-rongduan/src/main/java/com/example/consulrongduan/ConsulRongduanApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

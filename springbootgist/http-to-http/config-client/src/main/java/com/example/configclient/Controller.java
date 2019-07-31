@@ -11,6 +11,6 @@ public class Controller {
 
     @GetMapping(path = "hello")
     public String getHello(){
-        return menuGetPriceFromApplication.getName()+"="+menuGetPriceFromApplication.getPrice();
+        return menuGetPriceFromApplication.getName()+"="+menuGetPriceFromApplication.getDiscount();
     }
 }

@@ -7,9 +7,9 @@ import org.springframework.stereotype.Component;
 
 @Component
 @RefreshScope
-@ConfigurationProperties(prefix = "menu")
+@ConfigurationProperties(prefix = "order")
 @Data
 public class MenuGetPriceFromApplication {
-    private Integer price=100;
+    private Integer discount=100;
     private String name="apple";
 }

@@ -17,35 +17,8 @@ import org.springframework.cache.annotation.EnableCaching;
 @EnableCaching
 @EnableAdminServer
 public class ResttemplateServer1Application  {
-    @Autowired
-    private AdminServerProperties adminServerProperties;
-
     public static void main(String[] args) {
         SpringApplication.run(ResttemplateServer1Application.class, args);
     }
-//    @Override
-//    protected void configure(HttpSecurity http) throws Exception {
-//        String adminContextPath = adminServerProperties.getContextPath();
-//
-//        SavedRequestAwareAuthenticationSuccessHandler successHandler = new SavedRequestAwareAuthenticationSuccessHandler();
-//        successHandler.setTargetUrlParameter("redirectTo");
-//        successHandler.setDefaultTargetUrl(adminContextPath + "/");
-//
-//        http.authorizeRequests()
-//                .antMatchers(adminContextPath + "/assets/**").permitAll()
-//                .antMatchers(adminContextPath + "/login").permitAll()
-//                .anyRequest().authenticated()
-//                .and()
-//                .formLogin().loginPage(adminContextPath + "/login").successHandler(successHandler).and()
-//                .logout().logoutUrl(adminContextPath + "/logout").and()
-//                .httpBasic().and()
-//                .csrf()
-//                .csrfTokenRepository(CookieCsrfTokenRepository.withHttpOnlyFalse())
-//                .ignoringAntMatchers(
-//                        adminContextPath + "/instances",
-//                        adminContextPath + "/actuator/**"
-//                );
-//    }
-
 
 }
